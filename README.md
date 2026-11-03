@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is jetlag81 and:
+
+- 🔭 I’m currently working on an interactive chore scheduling app to streamline household workflows.
+
 <!--
 **jetlag81/jetlag81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
